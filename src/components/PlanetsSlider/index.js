@@ -13,7 +13,6 @@ const PlanetsSlider = props => {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-    initialSlide: 2,
   }
   return (
     <div className="container" data-testid="planets">
